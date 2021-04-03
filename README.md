@@ -3,13 +3,9 @@ Gentlebots dialog repository
 
 Instalation:
 
-```
-git clone --recursive https://github.com/gentlebots/gb_dialog.git
-cd ~/robocup_ws
-cd dialogflow_ros/dialogflow_ros
-pip install -r requirements.txt
-colcon build --symlink-install
-```
+to install dialogflow for ROS2: `https://github.com/jginesclavero/dialogflow_ros.git`
+
+clone this repo to use robocup2021 implementation: `https://github.com/gentlebots/gb_dialog.git`
 
 ### GO AND GET IT
 

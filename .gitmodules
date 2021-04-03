@@ -1,3 +1,0 @@
-[submodule "dependences/ros2_dialog"]
-	path = dependences/ros2_dialog
-	url = https://github.com/jginesclavero/dialogflow_ros.git
