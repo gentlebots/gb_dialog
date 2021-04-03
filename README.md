@@ -1,6 +1,16 @@
 # gb_dialog
 Gentlebots dialog repository
 
+Instalation:
+
+```
+git clone --recursive https://github.com/gentlebots/gb_dialog.git
+cd ~/robocup_ws
+cd dialogflow_ros/dialogflow_ros
+pip install -r requirements.txt
+colcon build --symlink-install
+```
+
 ### GO AND GET IT
 
 Dialog: request the object to get by robot
